@@ -2,6 +2,10 @@
 
 ## Applications
 
+#### [CopyQ](https://hluk.github.io/CopyQ/)
+
+- CopyQ is and advanced clipboard manager with many features
+
 #### [Lepton](https://github.com/hackjutsu/Lepton)
 
 -  A very powerful snippet manager based on Gist
@@ -9,6 +13,10 @@
 #### [Insomnia](https://insomnia.rest/)
 
 - Simple but great REST API client
+
+#### [Thunderbird](https://www.mozilla.org/en-US/thunderbird/)
+
+- The best free email application
 
 #### [Zeal](https://zealdocs.org/)
 
