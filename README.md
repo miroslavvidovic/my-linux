@@ -4,7 +4,7 @@
 
 #### [CopyQ](https://hluk.github.io/CopyQ/)
 
-- CopyQ is and advanced clipboard manager with many features
+- CopyQ is an advanced clipboard manager with many features
 
 #### [Lepton](https://github.com/hackjutsu/Lepton)
 
