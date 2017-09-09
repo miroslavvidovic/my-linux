@@ -6,6 +6,14 @@
 
 - CopyQ is an advanced clipboard manager with many features
 
+#### [Corebird](https://corebird.baedert.org/)
+
+- Modern and fun Twitter client
+
+#### [GitKraken](https://www.gitkraken.com/)
+
+- Best Git GUI application
+
 #### [Lepton](https://github.com/hackjutsu/Lepton)
 
 -  A very powerful snippet manager based on Gist
