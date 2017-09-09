@@ -18,6 +18,11 @@
 
 -  A very powerful snippet manager based on Gist
 
+#### [Meld](http://meldmerge.org/)
+
+- Visual diff and merge tool for developers
+- Supports Git, Subversion, Mercurial
+
 #### [Insomnia](https://insomnia.rest/)
 
 - Simple but great REST API client
