@@ -14,6 +14,10 @@
 
 - Best Git GUI application
 
+#### [GnuCash](https://www.gnucash.org/)
+
+- Personal and small-business financial-accounting software
+
 #### [Lepton](https://github.com/hackjutsu/Lepton)
 
 -  A very powerful snippet manager based on Gist
