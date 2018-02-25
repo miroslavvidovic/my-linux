@@ -45,5 +45,10 @@
 
 - Feature rich backup program 
 - Simple but powerful interface
-- Great alternative to [Dash](https://kapeli.com/dash)
+
+### [FBReader](https://fbreader.org/content/linux)
+
+- Popular multi-platform ebook reader
+- Supports popular ebook formats: ePub, fb2, mobi, rtf, html, plain text, and a lot of other formats
+
 ## Command Line Apps
